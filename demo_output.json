@@ -1,0 +1,5 @@
+{
+  "digit": 7,
+  "model_probability": 0.9969305396080017,
+  "note": "Supports isolated digits 0-9; custom handwriting may differ from MNIST."
+}
